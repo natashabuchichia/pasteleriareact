@@ -1,0 +1,75 @@
+.homeimg{
+    clear:both;
+    margin-left: 13%;
+    position: relative;
+    display:inline-block;
+    text-align: center;
+    margin-bottom: 2em;
+    opacity: 88%;
+}
+
+.home1{
+    position: absolute;
+    top: 280px;
+    left: 260px;
+    color: #000000;
+    font-style:italic;
+}
+
+.columnas {
+    width:65%;
+    padding-right: 2em;
+    float: left;
+    margin-left: 3em;
+}
+
+.columnas p {
+    text-indent: 15px;
+}
+
+.columnas h2 {
+    text-align: center;
+    margin-left:-15px;
+}
+
+.columnas, .testimonios {
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.testimonios {
+    width: 30%;
+    float: right;
+    margin-bottom: 5em;
+    margin-right: .7em;
+    margin-top: -2em;
+}
+
+.testimonios h2 {
+    text-align: center;
+    font-size: 1em;
+    text-decoration: underline;
+    margin-left: .3em;
+}
+
+.testimonio {
+    background: rgb(247, 247, 247);
+    border: 1px solid #ddd;
+    padding:1em;
+}
+
+.testimonio .cita {
+    font-style: italic;
+    font-size: .7em;
+    display: block;
+    text-align: center;
+}
+
+.testimonio .autor {
+    font-size: .6em;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+    margin:0em;
+}
+

@@ -1,0 +1,20 @@
+footer{
+    background-color: #e6d7ff;
+    color: rgb(187, 152, 218);
+    clear:both;
+    padding: 4em 0;
+    margin-top: 5em;
+    margin-bottom: 3em;
+}
+
+footer p {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+}
+
+.redes{
+    text-align: center;
+    margin-top: 1em;
+}

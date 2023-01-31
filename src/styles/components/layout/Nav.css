@@ -1,0 +1,41 @@
+nav {
+    background-color: #e7bee7;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 15%;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: .2em .4em;
+    display: block; 
+    position: relative;
+}
+
+nav ul li a:hover {
+    color: rgb(240, 152, 152);
+    background: #f8dff8;
+}
+
+nav ul li a.activo{
+    color: rgb(240, 152, 152);
+    background: #f8dff8;
+}

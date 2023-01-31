@@ -1,0 +1,45 @@
+div.holder {
+    background-color: #f8dff8;
+    text-align: left;
+  }
+  
+.holder h1 {
+  color: black;
+  font-size: 40px;
+  font-style:italic;
+  font-weight: 150;  
+}
+
+.contenedor{
+  clear:both;
+  margin-left: 13%;
+  position: relative;
+  display:inline-block;
+  text-align: center;
+}
+
+.pagina{
+  position: absolute;
+  left: 490px;
+  top: 55px;
+}
+
+.social{
+  float: right;
+  margin-top: 67px;
+  margin-right: 10%;  
+}
+
+.social2{
+  float: right;
+  margin-top: 67px;
+  margin-right: 1%;  
+}
+
+.social3{
+  float: right;
+  margin-top: 67px;
+  margin-right: 1%;  
+}
+
+

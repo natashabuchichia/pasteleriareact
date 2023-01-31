@@ -1,0 +1,288 @@
+.nosimg{
+    clear:both;
+    margin-left: 13%;
+    position: relative;
+    display:inline-block;
+    text-align: center;
+}
+
+.nosotros{
+    position: absolute;
+    top: 280px;
+    left: 410px;
+    color: rgb(255, 255, 255);
+    font-style:italic;
+}
+
+.nosotros2{
+    text-align: center;
+    color: #aa72aa;
+    font-style:italic;
+    margin-top: 2em;
+}
+
+.imagen{
+    margin-bottom: 2em;
+}
+
+.historia p {
+    font-size: .87em;
+    margin-left: 3em;
+    margin-right: 5em;
+    text-indent: 15px;
+}
+
+.personas{
+    position: relative;
+}
+
+.staff{
+    color: #aa72aa;
+    text-align: center;
+    font-style: italic;
+    padding:2em;
+}
+
+
+.persona {
+    width: 27%;
+    float: left;
+    margin-left: 2.25%;
+    border: 1px solid #ddd;
+    border-radius: .25em;
+    box-sizing: border-box;
+}
+
+.persona {
+    text-align: center;
+}
+
+.persona img {
+    border-radius: 50%;
+    box-shadow: 0 0 5px;
+    margin: .8em 0 1em;
+}
+
+.persona h5, .persona h6{
+    font-weight: normal; 
+    color: #aa72aa;
+    margin: 0;
+}
+
+.persona h5 {
+    font-size: .9em;
+}
+
+.persona h6 {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.persona p {
+    font-size: .7em;
+    margin: 0 1em 1em;
+    color: black;
+}
+
+.persona:first-child{
+    margin-left: 1.1em;
+}
+
+.persona{
+    margin-bottom: 500px;
+}
+
+/* fin primera persona */
+
+.persona2 {
+    width: 27%;
+    float: left;
+    margin-left: 7.25%;
+    border: 1px solid #ddd;
+    border-radius: .25em;
+    box-sizing: border-box;
+}
+
+.persona2 {
+    text-align: center;
+}
+
+.persona2 img {
+    border-radius: 50%;
+    box-shadow: 0 0 5px;
+    margin: .8em 0 1em;
+}
+
+.persona2 h5, .persona2 h6{
+    font-weight: normal; 
+    color: #aa72aa;
+    margin: 0;
+}
+
+.persona2 h5 {
+    font-size: .9em;
+}
+
+.persona2 h6 {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.persona2 p {
+    font-size: .7em;
+    margin: 0 1em 1em;
+    color: black;
+}
+
+.persona2:first-child{
+    margin-left: 0;
+}
+
+/* fin segunda persona */
+
+.persona3 {
+    width: 27%;
+    float: left;
+    margin-left: 7.25%;
+    border: 1px solid #ddd;
+    border-radius: .25em;
+    box-sizing: border-box;
+}
+
+.persona3 {
+    text-align: center;
+}
+
+.persona3 img {
+    border-radius: 50%;
+    box-shadow: 0 0 5px;
+    margin: .8em 0 1em;
+}
+
+.persona3 h5, .persona3 h6{
+    font-weight: normal; 
+    color: #aa72aa;
+    margin: 0;
+}
+
+.persona3 h5 {
+    font-size: .9em;
+}
+
+.persona3 h6 {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.persona3 p {
+    font-size: .7em;
+    margin: 0 1em 1em;
+    color: black;
+}
+
+.persona3:first-child{
+    margin-left: 0;
+}
+
+/* fin tercera persona */
+
+.persona4 {
+    position:absolute;
+    top: 350px;
+    left: 200px;
+    width: 20%;
+    margin-left: 1.25%;
+    border: 1px solid #ddd;
+    border-radius: .25em;
+    box-sizing: border-box;
+    margin-top: 1em;
+}
+
+.persona4 {
+    text-align: center;
+}
+
+.persona4 img {
+    border-radius: 50%;
+    box-shadow: 0 0 5px;
+    margin: .8em 0 1em;
+}
+
+.persona4 h5, .persona4 h6{
+    font-weight: normal; 
+    color: #aa72aa;
+    margin: 0;
+}
+
+.persona4 h5 {
+    font-size: .9em;
+}
+
+.persona4 h6 {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.persona4 p {
+    font-size: .7em;
+    margin: 0 1em 1em;
+    color: black;
+}
+
+.persona4:first-child{
+    margin-left: 0;
+}
+
+/* fin cuarta persona */
+
+.persona5 {
+    position:absolute;
+    top: 366px;
+    left: 600px;
+    width: 20%;
+    float:left;
+    margin-left: 7.25%;
+    border: 1px solid #ddd;
+    border-radius: .25em;
+    box-sizing: border-box;
+}
+
+.persona5 {
+    text-align: center;
+}
+
+.persona5 img {
+    border-radius: 50%;
+    box-shadow: 0 0 5px;
+    margin: .8em 0 1em;
+}
+
+.persona5 h5, .persona5 h6{
+    font-weight: normal; 
+    color: #aa72aa;
+    margin: 0;
+}
+
+.persona5 h5 {
+    font-size: .9em;
+}
+
+.persona5 h6 {
+    font-size: .8em;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+.persona5 p {
+    font-size: .7em;
+    margin: 0 1em 1em;
+    color: black;
+}
+
+.persona5:first-child{
+    margin-left: 0;
+}

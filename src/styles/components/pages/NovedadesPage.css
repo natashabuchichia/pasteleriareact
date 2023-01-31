@@ -1,0 +1,31 @@
+.novimg{
+    clear:both;
+    margin-left: 13%;
+    position: relative;
+    display:inline-block;
+    text-align: center;
+}
+
+.noved{
+    position: absolute;
+    top: 280px;
+    left: 455px;
+    color: #ffffff;
+    font-style:italic;
+}
+
+.caja{
+    padding: 15em;
+    margin-top: -12em;
+
+}
+
+.caja h1{
+    font-size: 30px;
+}
+.caja h3{
+    color: #c8a2c8;
+    font-style: italic;
+    font-size: 15px;
+}
+
